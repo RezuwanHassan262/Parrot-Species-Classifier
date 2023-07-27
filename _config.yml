@@ -1,0 +1,10 @@
+remote_theme: automatic-app-landing-page@master
+plugins: 
+- jekyll-remote-theme
+
+title: Parrot Species CLassifier
+description: An image classification API that can classify 50 parrot species with 91% accuracy
+
+author:
+  name: Md. Rezuwan Hassan
+  mail: rezwanhasan262@gmail.com
