@@ -3,9 +3,9 @@ title: Home
 layout: Page
 ---
 
-# Image classification API that can classify 50 parrot species with 91% accuracy.
+# Image classification API that can classify 50 parrot species with 91% accuracy. <br><br>
 
-The types are following: 
+The types are following: <br><br>
 
 1. african grey parrot
 2. australian king parrot
