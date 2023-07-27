@@ -8,7 +8,7 @@ layout: Page
 The types are following: <br><br>
 
 | Species                     | Species                  | Species                  |Species                          |Species                        |       
-| --------------------------- |:------------------------:|:-------------------------|:-------------------------------:|:-----------------------------:|	
+|:--------------------------- |:-------------------------|:-------------------------|:--------------------------------|:------------------------------|	
 | 1. african grey parrot      | 11. cockatiels           | 21. hooded parrot        | 31. puerto rican amazon         | 41. scarlet macaw	            |       
 | 2. australian king parrot   | 12. crimson rosella      | 22. hyacinth macaw       | 32. rainbow lorikeet            | 42. senegal parrot            |  
 | 3. blue lorikeet            | 13. cuban amazon         | 23. kea                  | 33. red-breasted parakeet       | 43. spixs macaw	              |        
