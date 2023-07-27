@@ -57,3 +57,14 @@ The types are following: <br><br>
 48. white cockatoo
 49. yellow-collared macaws
 50. yellow-headed amazon
+
+
+
+| Serial        | Date           | Day    | Month  | Year        | Time (GMT)	  | Latitude (N)  | Longitude (E) | Magnitude  | Location                           | Country              |
+| ------------- |:--------------:|:-------|:------:|:-----------:|:------------:|:-------------:|:-------------:|:----------:|:----------------------------------:| --------------------:|	
+| 0             |Nov 25, 2021	   |25      |November|2021	       |23:45         |22.81          |	93.5248       |6.2         |Myanmar (Burma): 19 Km SW of Falam	| Myanmar              |
+| 1             |Apr 28, 2021	   |28      |April   |2021	       |2:24          |26.75          |	92.42         |6           |Northeastern India                	| India                |
+| 2             |Oct 10, 2020	   |10      |October |2020	       |17:38	        |24.56	        |93.58	        |5.4	       |Myanmar-India Border Region	        |Myanmar-India Border  |
+| 3	            |Aug 30, 2020	   |30      |August	 |2020	       |1:47	        |23.4098	      |92.0087	      |5.1	       |33 Km N of Khagrachhari	            |Bangladesh            |
+| 4             |Aug 27, 2020	   |27      |August	 |2020	       |12:07         |23.06          |93.29          |5.3         |Myanmar-India Border Region         |Myanmar-India Border  |
+| 5             |Jun 21, 2020	   |21      |June    |2020         |22:40         |23.15          |93.32          |5.5         |Myanmar-India Border Region	        |Myanmar-India Border  |
