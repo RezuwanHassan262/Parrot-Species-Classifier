@@ -1,6 +1,6 @@
 --- 
-title: Home
-layout: Page
+title: home
+layout: page
 ---
 
 # Image classification API that can classify 50 parrot species with 91% accuracy. <br><br>
