@@ -19,3 +19,9 @@ The types are following: <br><br>
 | 8. caique parrot              | 18. great hanging parrot   | 28. palm cockatoo          | 38. red-tailed black cockatoos    | 48. white cockatoo              |        
 | 9. catalina macaw             | 19. greater vasa parrot    | 29. parrotlet              | 39. rose-ringed parakeet          | 49. yellow-collared macaws      |        
 | 10. chestnut-fronted macaw    | 20. hahn_s macaws          | 30. plum-headed parakeet   | 40. saint vincent amazon          | 50. yellow-headed amazon        |       
+
+
+Author:
+
+name: Md. Rezuwan Hassan
+mail: rezwanhasan262@gmail.com
