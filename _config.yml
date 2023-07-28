@@ -3,7 +3,7 @@ remote_theme: sylhare/Type-on-Strap
 plugins: 
 - jekyll-remote-theme
 
-title: Parrot Species CLassifier
+title: Parrot Species Classifier
 description: An image classification API that can classify 50 parrot species with 91% accuracy
 
 author:
