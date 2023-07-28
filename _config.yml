@@ -1,4 +1,4 @@
-remote_theme: Fyrestrap/fyrestrap-tw-coming-soon
+remote_theme: sylhare/Type-on-Strap
 
 plugins: 
 - jekyll-remote-theme
