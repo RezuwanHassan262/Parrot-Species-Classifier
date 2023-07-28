@@ -1,5 +1,5 @@
 --- 
-title: home
+title: Parrot Species Classifier
 layout: page
 ---
 
