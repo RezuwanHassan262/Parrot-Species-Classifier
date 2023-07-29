@@ -1,6 +1,7 @@
 ## Parrot-Species-Classifier
 
-An image classifier model that can classify 50 parrot species with 91% accuracy
+An image classifier model that can classify 50 parrot species with 91% accuracy. 
+[Click here](https://rezuwanhassan262.github.io/Parrot-Species-Classifier/) for live demo.
 
 fast ai and resnet34 were used to predict images of 50 different parrot species.
 
