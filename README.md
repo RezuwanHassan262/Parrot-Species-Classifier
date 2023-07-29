@@ -44,53 +44,6 @@ The final model was deployed in HuggingFace Spaces using Gradio App. The impleme
 ![Model deployment on huggingface spaces screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Parrot-Species-Classifier/main/images/s1.PNG) 
 
 
+## API integration with GitHub Pages
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Run Locally:
-
-1. Clone the repository
-
-```
-git clone https://github.com/RezuwanHassan262/Parrot-Species-Classifier 
-```
-
-2. Go to the project directory
-
-```
-cd Parrot-Species-Classifier 
-```
-
-3. Initialize and activate Virtual Environment
-
-```
-virtualenv --no-site-packages  venv
-source venv/bin/activate
-```
-
-4. Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-
+The deployed model API is integrated [here](https://rezuwanhassan262.github.io/Parrot-Species-Classifier/) in GitHub Pages Website. Implementation and other details can be found in the docs folder.
