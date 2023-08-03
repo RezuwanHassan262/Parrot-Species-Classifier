@@ -41,7 +41,7 @@ Data Cleaning: This part took the highest time. Since the collected data were fr
 The final model was deployed in HuggingFace Spaces using Gradio App. The implementation can be found in deployment [here](https://rezuwan-parrot-classifier.hf.space/?)
 
 
-![Model deployment on huggingface spaces screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Parrot-Species-Classifier/main/images/s1.PNG) 
+![Model deployment on huggingface spaces screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Parrot-Species-Classifier/main/images/app_screenshot.PNG) 
 
 
 ## API integration with GitHub Pages
