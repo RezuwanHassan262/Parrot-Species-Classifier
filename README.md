@@ -9,18 +9,22 @@ The project goal was to build an image classification model and deploy it on the
 
 The types are following: <br><br>
 
-| Species                       | Species                    | Species                    |Species                            |Species                          |       
-|:------------------------------|:---------------------------|:---------------------------|:----------------------------------|:--------------------------------|	
-| 1. african grey parrot        | 11. cockatiels             | 21. hooded parrot          | 31. puerto rican amazon           | 41. scarlet macaw	              |       
-| 2. australian king parrot     | 12. crimson rosella        | 22. hyacinth macaw         | 32. rainbow lorikeet              | 42. senegal parrot              |  
-| 3. blue lorikeet              | 13. cuban amazon           | 23. kea                    | 33. red-breasted parakeet         | 43. spixs macaw	                |        
-| 4. blue-and-yellow macaw      | 14. eclectus parrot        | 24. kākāpō                 | 34. red-crowned amazon	          | 44. sun conure	                |       
-| 5. blue-headed parrot         | 15. galah                  | 25. lovebirds              | 35. red-crowned parakeet	        | 45. thick-billed parrot	        |        
-| 6. budgerigar                 | 16. golden parakeet        | 26. monk parakeet          | 36. red-fan parrot                | 46. turquoise-fronted amazon    |        
-| 7. burrowing parrot           | 17. great green macaw      | 27. orange-winged amazon   | 37. red-shouldered macaw          | 47. vernal hanging parrot       |   
-| 8. caique parrot              | 18. great hanging parrot   | 28. palm cockatoo          | 38. red-tailed black cockatoos    | 48. white cockatoo              |        
-| 9. catalina macaw             | 19. greater vasa parrot    | 29. parrotlet              | 39. rose-ringed parakeet          | 49. yellow-collared macaws      |        
-| 10. chestnut-fronted macaw    | 20. hahn_s macaws          | 30. plum-headed parakeet   | 40. saint vincent amazon          | 50. yellow-headed amazon        |       
+| Species                       | Species                    | Species                    |Species                            |Species                          |Species                          |       
+|:------------------------------|:---------------------------|:---------------------------|:----------------------------------|:--------------------------------|:--------------------------------|	
+| 1. african grey parrot        | 11. caique parrot          | 21. golden parakeet        | 31. major mitchell_s cockatoo     | 41. red crowned parakeet        |51. senegal parrot               |       
+| 2. australian king parrot     | 12. catalina macaw         | 22. great green macaw      | 32. monk parakeet                 | 42. red fan parrot              |52. spixs macaw                  |
+| 3. australian night parrot    | 13. chestnut-fronted macaw | 23. great hanging parrot   | 33. musk lorikeet'                | 43. red lory                    |53. sulpher crested cockatoo	    |
+| 4. bare eyed cockatoo         | 14. citron cockatoo        | 24. greater vasa parrot    | 34. palm cockatoo                 | 44. red rumped parrot           |54. sun conure	                  |
+| 5. blue and yellow macaw      | 15. cockatiels             | 25. hahn_s macaws          | 35. parrotlet                     | 45. red shouldered macaw	      |55. thick billed parrot          |
+| 6. blue headed parrot         | 16. crimson rosella        | 26. hooded parrot          | 36. plum headed parakeet          | 46. red tailed black cockatoos  |56. turquoise fronted amazon	    |
+| 7. blue lorikeet              | 17. cuban amazon           | 27. hyacinth macaw         | 37. puerto rican amazon           | 47. rose ringed parakeett       |57. umbrella cockatoo	          |
+| 8. brown hooded parrot        | 18. eclectus parro         | 28. kea                    | 38. rainbow lorikeet              | 48. saint vincent amazon        |58. vernal hanging parrot        |
+| 9. budgerigar                 | 19. galah cockatoo         | 29. kākāpō                 | 39. red breasted parakeet         | 49. salmon crested cockatoo     |59. yellow collared macaws       |
+| 10. burrowing parrot          | 20. gang gang cockatoo     | 30. lovebirds              | 40. red crowned amazonn           | 50. scarlet macaw               |60. yellow-headed amazon         |
+
+
+
+
 
 ## Data collection & Dataset Preparation
 
