@@ -53,4 +53,4 @@ The final model was deployed in HuggingFace Spaces using Gradio App. The impleme
 The deployed model API is integrated [here](https://rezuwanhassan262.github.io/Parrot-Species-Classifier/) in netlify pages Website. Implementation and other details can be found in the docs folder.
 
 
-![API integration of huggingface spaces screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Parrot-Species-Classifier/main/images/3.jpg) 
+![API integration of huggingface spaces screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Parrot-Species-Classifier/main/images/three.png)
