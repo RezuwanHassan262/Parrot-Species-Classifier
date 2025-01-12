@@ -3,9 +3,9 @@
 An image classifier model that can classify 50 parrot species with 91% accuracy. 
 [Click here](https://rezuwan-parrot-classifier.hf.space/?) for live demo.
 
-fast ai and resnet34 were used to predict images of 50 different parrot species.
+fast ai and resnet34 were used to predict images of 60 different parrot species.
 
-The project goal was to build an image classification model and deploy it on the web that can successfully classify 50 different parrot species.
+The project goal was to build an image classification model and deploy it on the web that can successfully classify 60 different parrot species.
 
 The types are following: <br><br>
 
