@@ -1,7 +1,7 @@
 ## Parrot-Species-Classifier
 
-An image classifier model that can classify 60 parrot species with 91% accuracy. 
-[Click here](https://rezuwan-parrot-classifier.hf.space/?) for live demo.
+An image classifier model that can classify 60 parrot species with 93% accuracy. 
+[Click here](https://rezuwan-parrot-classifier.hf.space/?) for a live demo.
 
 fast ai and resnet34 were used to predict images of 60 different parrot species.
 
@@ -35,7 +35,7 @@ Details can be found in notebooks/1_Parrots_classifier_data_prep.ipynb
 
 ## Training and Data Cleaning
 
-Training: Fine-tuned a resnet34 model for 5 epochs and got upto 91% accuracy.
+Training: Fine-tuned a resnet34 model for 5 epochs and got upto 93% accuracy.
 Data Cleaning: This part took the highest time. Since the collected data were from browser, there were many noises. Also, there were images that contained Animations, adds as well as there were garbage data that contains irrelevent subjects. I used the fastai ImageClassifierCleaner to clean and update the data. I cleaned the data after each training or finetuning iteration, except for the final iteration, which was the final version of the model. 
 
 
